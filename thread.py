@@ -4,7 +4,6 @@ def show () :
 t=  Thread(target = show())
 t.start()
 print("this is parent thread")'''
-import threading
 
 '''from threading import *
 class MyThread(Thread) :
