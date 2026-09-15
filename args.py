@@ -4,7 +4,6 @@
 
 
 func1 (1,10.2,30,25,"Aditya" )'''
-from IPython.utils.PyColorize import C2
 
 '''def func1 (*args, **kwargs):
     for i in kwargs.items ():
