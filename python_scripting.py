@@ -13,7 +13,8 @@ current_directory()
 filename= "sample.txt"
 file_path(filename)'''
 
-'''import time
+
+import time
 
 epc= time.time()
 print(epc)
@@ -21,5 +22,5 @@ local_time = time.localtime(epc)
 print(local_time)
 print(local_time.tm_year)
 
-print(time.ctime())'''
+print(time.ctime())
 
