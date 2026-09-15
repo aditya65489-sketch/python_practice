@@ -37,7 +37,7 @@ def outer_func ():
 
 obj= func1(outer_func)'''
 
-#factory
+#Factory
 B=type("BaseClass", (object,), { })
 C1=type("C1", (B,), {'val' :5})
 C2=type("C2", (B,), {'val' :10})
