@@ -26,7 +26,7 @@ t.start()
 for i in range(5) :
     print("This is parent thread")'''
 
-from threading import *
+'''from threading import *
 import time
 class Demo:
     def num(self) :
@@ -59,4 +59,4 @@ t1.join()
 t2.join()
 t3.join()
 
-print("This is the main thread")
+print("This is the main thread")'''
